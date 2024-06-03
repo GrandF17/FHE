@@ -1,0 +1,10 @@
+// cout << "Fast div result: " << BigNumber("1587356").div(BigNumber("2")) << endl;
+// cout << "Fast div result: " << BigNumber("3483459344554122").div(BigNumber("2")) << endl;
+// cout << "Fast div result: " << BigNumber("14122").div(BigNumber("2")) << endl;
+// cout << "Fast div result: " << BigNumber("136234").div(BigNumber("3")) << endl;
+// cout << "Fast div result: " << BigNumber("12100047854").div(BigNumber("2")) << endl;
+// cout << "Fast div result: " << BigNumber("10000").div(BigNumber("10")) << endl;
+// cout << "Fast div result: " << BigNumber("4261200000").div(BigNumber("2")) << endl;
+// cout << "Fast div result: " << BigNumber("32342342423427").div(BigNumber("7")) << endl;
+// cout << "Fast div result: " << BigNumber("10010001000").div(BigNumber("10")) << endl;
+// cout << "Fast div result: " << BigNumber("145367892").div(BigNumber("245")) << endl;
